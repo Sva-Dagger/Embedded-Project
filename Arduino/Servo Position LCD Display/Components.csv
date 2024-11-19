@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1,"PCF8574-based, 39 LCD 16 x 2 (I2C)"
+"SERVO1",1,"Positional Micro Servo"

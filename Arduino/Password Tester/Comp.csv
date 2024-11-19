@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U2",1," Arduino Uno R3"
+"U3",1,"PCF8574-based, 39 LCD 16 x 2 (I2C)"
+"KEYPAD1",1," Keypad 4x4"

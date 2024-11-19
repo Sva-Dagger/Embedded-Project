@@ -1,0 +1,9 @@
+Bluetooth Car with L298N Motor Driver
+L298N MOTOR DRIVER
+Pin 1 : 8
+Pin 2 : 9
+Pin 3 : 10
+Pin 4 : 11
+BLUETOOTH MODULE
+RXD : 3
+TXD : 2

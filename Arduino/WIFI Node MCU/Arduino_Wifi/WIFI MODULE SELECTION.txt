@@ -1,0 +1,11 @@
+Now you can do whatever you want with your NodeMCU board
+Following is an example for led blinking with NodeMCU board via webserver
+● In arduino IDE goto tools>Boards>select NODEMCU 1.0 (ESP - 12E Module)
+● again goto tools and select port.
+● Change the Wifi name and password from the following code.
+● Now click on Upload button to upload the following code.
+● Connect the led's positive leg on D9 pin of board and negative to the ground of the code.
+● Power up the board and open the serial monitor from arduino IDE
+● after connecting to the wifi it will show you the IP address.
+● type that IP address on the web browser(Edge, Chrome, Firefox etc..)
+● A webpage will open you can change the status of LED by turning it ON or OFF.

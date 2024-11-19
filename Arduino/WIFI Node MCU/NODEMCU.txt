@@ -1,0 +1,4 @@
+WIFI NODEMCU
+NODEMCU FLASHMASTER LIBRARY : https://github.com/nodemcu/nodemcu-flasher/archive/master.zip
+NODEMCU FIRMWARE : https://github.com/sleemanj/ESP8266_Simple/raw/master/firmware/ai-thinker-0.9.5.2-115200.bin
+ARDUINO IDE EXE : https://github.com/sleemanj/ESP8266_Simple/raw/master/firmware/ai-thinker-0.9.5.2-115200.bin

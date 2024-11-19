@@ -1,0 +1,3 @@
+Soil Moisture Sensor
+Relay Pin : 7
+Soil Moisture Sensor Pin : A0

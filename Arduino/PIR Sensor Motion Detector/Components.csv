@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"PIR1",1,"-264.4958933014505 , 21.16423725409789 , -211.48604840467266  PIR Sensor"
+"U1",1," Arduino Uno R3"
+"U2",1,"PCF8574-based, 39 LCD 16 x 2 (I2C)"
